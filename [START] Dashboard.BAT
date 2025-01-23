@@ -1,0 +1,1 @@
+start "DASHBOARD" cmd /k "cd /d "%~dp0" && title [DASHBOARD] Wine Dashboard - Project Work di Niccolò Uliva && npm start"
